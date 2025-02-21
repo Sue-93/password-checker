@@ -16,8 +16,8 @@ invalid password return.
 Requires a C++ compiler
 
 ### Clone the Repository
-$ git clone https://github.com/yourusername/password-checker.git
-$ cd password-checker
+`git clone https://github.com/yourusername/password-checker.git`
+`cd password-checker`
 
 ### Compile the Program
 $ g++ -o pwdChecker main.cpp passwordChecker.cpp
