@@ -36,7 +36,7 @@ Requires a C++ compiler
 * Some passwords may still be insecure despite receiving a high score.
 
 ## Responsible Use
-This tool is intended for educational purposes only.,
+This tool is intended for educational purposes only.
 Do not use this tool for password cracking, hacking, or for any malicious activities.
 
 ## License
